@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.Queue;
 import java.util.Arrays;
 
 /**
- * 稀疏向量.
+ * 稀疏向量
  */
 public class SparseVector {
 

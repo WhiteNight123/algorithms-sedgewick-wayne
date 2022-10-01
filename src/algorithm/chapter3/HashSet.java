@@ -3,7 +3,7 @@ package algorithm.chapter3;
 import edu.princeton.cs.algs4.Queue;
 
 /**
- * Created by Rene Argento on 02/08/17.
+ * HashSet(有序)
  */
 @SuppressWarnings("unchecked")
 public class HashSet<Key> {

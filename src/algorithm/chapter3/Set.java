@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.Queue;
 import java.util.NoSuchElementException;
 
 /**
- * Created by Rene Argento on 02/08/17.
+ * Set(无序)
  */
 public class Set<Key extends Comparable<Key>> {
 

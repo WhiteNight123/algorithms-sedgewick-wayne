@@ -3,7 +3,7 @@ package algorithm.chapter2;
 import util.ArrayUtil;
 
 /**
- * Created by Rene Argento on 02/02/17.
+ * 插入排序
  */
 @SuppressWarnings("unchecked")
 public class InsertionSort {

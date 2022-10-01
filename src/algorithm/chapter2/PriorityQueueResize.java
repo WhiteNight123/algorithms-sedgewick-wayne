@@ -3,7 +3,7 @@ package algorithm.chapter2;
 import util.ArrayUtil;
 
 /**
- * Created by Rene Argento on 25/03/17.
+ * 优先队列(可改变大小)
  */
 @SuppressWarnings("unchecked")
 public class PriorityQueueResize<Key extends Comparable<Key>>{

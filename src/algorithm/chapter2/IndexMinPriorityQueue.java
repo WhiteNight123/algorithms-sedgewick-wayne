@@ -3,7 +3,7 @@ package algorithm.chapter2;
 import java.util.NoSuchElementException;
 
 /**
- * Created by Rene Argento on 07/11/17.
+ * 索引优先队列
  */
 public class IndexMinPriorityQueue<Key extends Comparable<Key>> {
 

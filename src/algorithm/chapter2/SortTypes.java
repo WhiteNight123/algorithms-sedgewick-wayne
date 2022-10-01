@@ -1,7 +1,7 @@
 package algorithm.chapter2;
 
 /**
- * Created by Rene Argento on 05/02/17.
+ * 排序类型(枚举)
  */
 public enum SortTypes {
 

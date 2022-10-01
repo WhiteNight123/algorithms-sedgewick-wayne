@@ -4,7 +4,7 @@ import edu.princeton.cs.algs4.StdRandom;
 import util.ArrayUtil;
 
 /**
- * Created by Rene Argento on 04/03/17.
+ * 快速排序
  */
 public class QuickSort {
 

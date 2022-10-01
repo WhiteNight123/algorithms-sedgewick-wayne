@@ -3,7 +3,7 @@ package algorithm.chapter2;
 import util.ArrayUtil;
 
 /**
- * Created by Rene Argento on 16/11/17.
+ * d向堆实现优先队列
  */
 @SuppressWarnings("unchecked")
 public class DWayPriorityQueue<Key extends Comparable<Key>> {
