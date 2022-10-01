@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.Queue;
 import java.util.NoSuchElementException;
 
 /**
- *
+ * 有序数组（二分查找）
  */
 @SuppressWarnings("unchecked")
 public class BinarySearchSymbolTable<Key extends Comparable<Key>, Value> implements SymbolTable<Key, Value> {

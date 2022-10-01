@@ -1,7 +1,7 @@
 package algorithm.chapter3;
 
 /**
- * Created by Rene Argento on 12/06/17.
+ * 符号表
  */
 public interface SymbolTable<Key, Value> {
 

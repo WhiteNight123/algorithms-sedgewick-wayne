@@ -1,7 +1,7 @@
 package algorithm.chapter1;
 
 /**
- * Created by Rene Argento on 09/12/16.
+ * 加权quick-union算法
  */
 public class WeightedQuickUnion implements UF {
 

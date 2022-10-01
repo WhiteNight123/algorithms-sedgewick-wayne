@@ -3,10 +3,8 @@ package algorithm.chapter1;
 import java.util.Iterator;
 
 /**
- * Created by Rene Argento on 11/04/18.
+ * 循环链表
  */
-// Thanks to Adeboye (https://github.com/Adeboye) for finding a bug on the remove methods:
-// https://github.com/reneargento/algorithms-sedgewick-wayne/issues/185
 public class LinkedListCircular<Item> implements Iterable<Item> {
 
     public class Node {

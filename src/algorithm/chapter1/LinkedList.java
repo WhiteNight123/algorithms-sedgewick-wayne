@@ -3,7 +3,7 @@ package algorithm.chapter1;
 import java.util.Iterator;
 
 /**
- * Created by Rene Argento on 13/01/18.
+ * 链表
  */
 public class LinkedList<Item> implements Iterable<Item> {
 

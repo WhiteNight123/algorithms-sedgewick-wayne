@@ -1,7 +1,7 @@
 package algorithm.chapter1;
 
 /**
- * Created by Rene Argento on 09/12/16.
+ * quick-find 算法
  */
 public class QuickFind implements UF {
 

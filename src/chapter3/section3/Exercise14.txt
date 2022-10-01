@@ -119,3 +119,6 @@ Insert A        (B)A
 Every insert operation requires either coloring (zero or more operations), left rotation (at most one) or a combination of coloring and left rotation. 
 The more nodes in the tree, the more nodes involved in these operations.
 The tree height is monotonically increasing when inserting keys in increasing order.
+每个插入操作都需要着色（零个或多个操作）、左旋转（最多一个）或着色和左旋转的组合。
+树中的节点越多，这些操作涉及的节点就越多。
+当按递增顺序插入键时，树的高度单调增加。
