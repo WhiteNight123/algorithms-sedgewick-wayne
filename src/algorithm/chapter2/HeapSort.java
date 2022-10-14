@@ -3,7 +3,7 @@ package algorithm.chapter2;
 import util.ArrayUtil;
 
 /**
- * Created by Rene Argento on 30/03/17.
+ * 堆排序
  */
 public class HeapSort {
 

@@ -1,10 +1,8 @@
 package algorithm.chapter1;
 
 /**
- * Created by Rene Argento on 09/12/16.
+ * quick-union 算法
  */
-// Thanks to Jinchul81 (https://github.com/Jinchul81) for fixing the time complexity description on the connected() method:
-// https://github.com/reneargento/algorithms-sedgewick-wayne/issues/164
 public class QuickUnion implements UF {
 
     private int[] id;

@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.StdRandom;
 import util.ArrayUtil;
 
 /**
- * Created by Rene Argento on 11/03/17.
+ * 带截止的快速排序
  */
 public class QuickSortWithCutoff {
 

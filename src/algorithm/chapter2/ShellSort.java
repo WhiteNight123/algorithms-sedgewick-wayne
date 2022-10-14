@@ -1,7 +1,7 @@
 package algorithm.chapter2;
 
 /**
- * Created by Rene Argento on 02/02/17.
+ * 希尔排序
  */
 @SuppressWarnings("unchecked")
 public class ShellSort {

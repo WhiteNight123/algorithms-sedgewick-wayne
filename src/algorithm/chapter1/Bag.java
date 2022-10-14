@@ -3,7 +3,7 @@ package algorithm.chapter1;
 import java.util.Iterator;
 
 /**
- * Created by Rene Argento on 06/08/17.
+ * 背包.
  */
 public class Bag<Item> implements Iterable<Item> {
 

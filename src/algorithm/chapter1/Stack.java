@@ -3,7 +3,7 @@ package algorithm.chapter1;
 import java.util.Iterator;
 
 /**
- * Created by Rene Argento on 19/08/17.
+ * 栈
  */
 public class Stack<Item> implements Iterable<Item> {
 

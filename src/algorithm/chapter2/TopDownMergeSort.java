@@ -1,7 +1,7 @@
 package algorithm.chapter2;
 
 /**
- * Created by Rene Argento on 11/02/17.
+ * 自顶向下归并排序
  */
 public class TopDownMergeSort {
 

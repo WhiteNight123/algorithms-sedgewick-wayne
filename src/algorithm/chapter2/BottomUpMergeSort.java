@@ -1,7 +1,7 @@
 package algorithm.chapter2;
 
 /**
- * Created by Rene Argento on 11/02/17.
+ * 归并排序(自底向上)
  */
 public class BottomUpMergeSort {
 

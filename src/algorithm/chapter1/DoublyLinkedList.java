@@ -3,7 +3,7 @@ package algorithm.chapter1;
 import java.util.Iterator;
 
 /**
- * Created by Rene Argento on 17/08/17.
+ * 双向链表
  */
 public class DoublyLinkedList<Item> implements Iterable<Item> {
 

@@ -3,7 +3,7 @@ package algorithm.chapter2;
 import util.ArrayUtil;
 
 /**
- * Created by Rene Argento on 20/03/17.
+ * 优先队列
  */
 @SuppressWarnings("unchecked")
 public class PriorityQueue<Key extends Comparable<Key>> {

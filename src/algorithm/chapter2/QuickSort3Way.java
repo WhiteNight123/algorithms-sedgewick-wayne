@@ -4,7 +4,7 @@ import edu.princeton.cs.algs4.StdRandom;
 import util.ArrayUtil;
 
 /**
- * Created by Rene Argento on 09/03/17.
+ * 3向切分的快速查找
  */
 public class QuickSort3Way {
 
